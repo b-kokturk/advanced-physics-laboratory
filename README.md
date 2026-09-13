@@ -1,5 +1,4 @@
 # Advanced Physics Laboratory
-# Advanced Physics Laboratory
 
 Selected experimental reports from **Advanced Physics Laboratory I–II (PHYS 442–443)** at the **Department of Physics, Boğaziçi University**.
 
